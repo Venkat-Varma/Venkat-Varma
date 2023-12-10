@@ -4,11 +4,12 @@
 
 🔍 Exploring the intersections of data science to create innovative solutions.
 
+
 🛠️ **Skills:**
 - 📈 Data Science: Excel, MySQL, Python, Statistics and Probability, Machine Learning, Power-Bi, Tableau.
 
 🌐 **Projects:**
-Check out my latest projects, where I apply statistical methods to real-world datasets.
+- Check out my latest projects, where I apply statistical methods to real-world datasets.
 
 📘 **Learning Journey:**
 - 📚 Currently diving deep into data science concepts and methodologies.
