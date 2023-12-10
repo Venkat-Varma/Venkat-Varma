@@ -10,7 +10,7 @@
 
 🌐 **Projects:**
 - Check out my latest projects, where I apply statistical methods to real-world datasets.
-- 
+  [Click Here](https://github.com/Venkat-Varma/Data-Science-Projects)
 
 📘 **Learning Journey:**
 - 📚 Currently diving deep into data science concepts and methodologies.
