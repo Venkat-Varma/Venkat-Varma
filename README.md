@@ -10,6 +10,7 @@
 
 🌐 **Projects:**
 - Check out my latest projects, where I apply statistical methods to real-world datasets.
+- 
 
 📘 **Learning Journey:**
 - 📚 Currently diving deep into data science concepts and methodologies.
@@ -23,6 +24,6 @@
 [Include your GitHub stats if you want, such as the number of repositories, contributions, etc.]
 
 🔗 **Connect with Me:**
-- LinkedIn: venkat-v-0421a7201
+- LinkedIn: https://www.linkedin.com/in/venkat-v-0421a7201/
 
 Let's connect, learn, and innovate together! 🌐💻🚀
